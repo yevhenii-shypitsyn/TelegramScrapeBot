@@ -6,12 +6,12 @@ Technologies used: Python, Telegram API, Telebot API, Pyrogram API
 
 1) Install python on your computer and set up virtual environment;
 
-Run the following commands:
+Run the following commands (and others if you never set up your VE before):
 
 $pip install --update pyrogram
 $pip install --update telebot
 
-Éetc
+....
 2) Register your bot with @BotFather on Telegram (see instructions on web)
 3) Register your Telegram App on my.telegram.org (see instructions on web). They will provide you with api id and hash id which you will need to run the bot and pyrogram API.
 
